@@ -1,0 +1,51 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab);
+
+body {
+	font-family: 'Helvetica Neue';
+}
+
+small {
+	font-weight: 100;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+a:visited {
+	color: black;
+}
+
+a:hover {
+	color: orange;
+}
+
+header h1 {
+	font-family: 'Roboto Slab', serif;
+	font-size: 48px;
+	letter-spacing: 80px;
+	margin-left: 32px;
+	margin-bottom: 10px;
+}
+
+header hr {
+	margin-left: 64px;
+	width: 815px;
+}
+
+header h2 {
+	font-weight: normal;
+	font-size: 24px;
+	margin-left: 64px;
+	margin-top: 10px;
+}
+
+header {
+	margin-bottom: 64px;
+}
+
+section {
+	margin-left: 64px;
+	width: 600px;
+}
