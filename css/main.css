@@ -21,6 +21,10 @@ a:hover {
 	color: orange;
 }
 
+p {
+	text-indent: 35px;
+}
+
 header h1 {
 	font-family: 'Roboto Slab', serif;
 	font-size: 48px;
